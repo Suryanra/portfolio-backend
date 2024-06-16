@@ -8,7 +8,7 @@ const achievementData=require('./data/achievement');
 
 
 app.use(cors({
-  origin: process.env.CORS_ORIGIN || 'https://666e5f6f633cce7e54169508--merry-mermaid-d5c5db.netlify.app', 
+  origin: process.env.CORS_ORIGIN || 'https://666e87ef273aa989bb03b3df--candid-speculoos-8b8a50.netlify.app/', 
   credentials: true
 }));
 
