@@ -23,6 +23,9 @@ app.get('/achievement', async (req, resp) => {
   resp.send(achievementData);
   
 });
+app.get('/link',(req,resp)=>{
+  resp.send({link:"https://drive.google.com/file/d/1YtwKviwooXFplJPPQuSFV0XozO5GPSfl/view?usp=drive_link"})
+})
 
 const port = process.env.PORT || 4001;
 
