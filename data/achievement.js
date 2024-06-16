@@ -4,7 +4,7 @@
           date: "5 March 2024",
           details:
             "My team and I participated in the hackathon conducted by Union Bank of Switzerland, competing against approximately 400 teams. We won 3rd prize. My contributions included developing a real-time chat forum, integrating Razorpay for payment processing, creating interactive games to enhance cognitive and problem-solving skills, and developing a blog in both video and text formats.",
-          link: "https://www.linkedin.com/posts/surya-pratap-singh-032b76257_ubshackathon-empoweringparents-innovation-activity-7182086464275456004-PsbL?utm_source=share&utm_medium=member_desktop",
+          link: "https://www.linkedin.com/posts/suryanra_ubshackathon-empoweringparents-innovation-activity-7182086464275456004-3JCG?utm_source=share&utm_medium=member_desktop",
         },
         {
           title: "2 ⭐⭐ on CodeChef",

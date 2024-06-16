@@ -24,7 +24,7 @@ app.get('/achievement', async (req, resp) => {
   
 });
 app.get('/link',(req,resp)=>{
-  resp.send({link:"https://drive.google.com/file/d/1q3TK66MEdJ9QRjbHP0S_36UFL8_tu6DX/view?usp=drive_link"})
+  resp.send({link:"https://666ead9afd6b1a60265c6c90--astounding-kitten-402df7.netlify.app"})
 })
 
 const port = process.env.PORT || 4001;
