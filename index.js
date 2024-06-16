@@ -24,7 +24,7 @@ app.get('/achievement', async (req, resp) => {
   
 });
 app.get('/link',(req,resp)=>{
-  resp.send({link:"https://drive.google.com/file/d/1YtwKviwooXFplJPPQuSFV0XozO5GPSfl/view?usp=drive_link"})
+  resp.send({link:"https://drive.google.com/file/d/1G8NMoJPB9_4cDRrL4d6fID4VkRUkY5-E/view?usp=drive_link"})
 })
 
 const port = process.env.PORT || 4001;
