@@ -1,6 +1,6 @@
  const skillsData = [
    {
-     name: "1Programming Languages",
+     name: "Programming Languages",
      collection: [
        "C++",
        "Python",

@@ -8,7 +8,7 @@ const achievementData=require('./data/achievement');
 
 
 app.use(cors({
-  origin: process.env.CORS_ORIGIN || 'http://localhost:3000', 
+  origin: process.env.CORS_ORIGIN || 'https://666e5f6f633cce7e54169508--merry-mermaid-d5c5db.netlify.app/', 
   credentials: true
 }));
 
